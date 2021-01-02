@@ -1,0 +1,591 @@
+/* alex-brush-regular - latin-ext_latin */
+@font-face {
+  font-family: 'Alex Brush';
+  font-style: normal;
+  font-weight: 400;
+  src: url('AlexBrush/alex-brush-v10-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('AlexBrush/alex-brush-v10-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* amatic-sc-regular - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Amatic/amatic-sc-v12-latin-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Amatic/amatic-sc-v12-latin-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* amatic-sc-700 - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Amatic/amatic-sc-v12-latin-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Amatic/amatic-sc-v12-latin-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* black-ops-one-regular - latin-ext_latin */
+@font-face {
+  font-family: 'Black Ops One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('BlackOpsOne/black-ops-one-v10-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('BlackOpsOne/black-ops-one-v10-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* caveat-regular - latin-ext_cyrillic_latin */
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Caveat/caveat-v5-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Caveat/caveat-v5-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* caveat-700 - latin-ext_cyrillic_latin */
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Caveat/caveat-v5-latin-ext_cyrillic_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Caveat/caveat-v5-latin-ext_cyrillic_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cinzel-regular - latin-ext_latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Cinzel/cinzel-v8-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Cinzel/cinzel-v8-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cinzel-700 - latin-ext_latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Cinzel/cinzel-v8-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Cinzel/cinzel-v8-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* comfortaa-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  src: url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* comfortaa-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* comfortaa-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('Comfortaa/comfortaa-v22-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-infant-300 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 300;
+  src: url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-infant-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  src: url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-infant-700 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  src: url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantInfant/cormorant-infant-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-unicase-300 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-weight: 300;
+  src: url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-unicase-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-weight: 400;
+  src: url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cormorant-unicase-700 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-weight: 700;
+  src: url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('CormorantUnicase/cormorant-unicase-v7-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* dancing-script-regular - latin-ext_latin_vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('DancingScript/dancing-script-v10-latin-ext_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('DancingScript/dancing-script-v10-latin-ext_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* dancing-script-700 - latin-ext_latin_vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url('DancingScript/dancing-script-v10-latin-ext_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('DancingScript/dancing-script-v10-latin-ext_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* didact-gothic-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek-ext */
+@font-face {
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('DidactGotic/didactgothic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('DidactGotic/didactgothic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* eater-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Eater';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Eater/eater-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Eater/eater-v7-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* emilys-candy-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Emilys Candy';
+    font-style: normal;
+    font-weight: 400;
+    src: url('EmilysCandy/emilys-candy-v6-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('EmilysCandy/emilys-candy-v6-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* forum-regular - latin-ext_cyrillic-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Forum/forum-v9-latin-ext_cyrillic-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Forum/forum-v9-latin-ext_cyrillic-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-300 - latin-ext_latin_vietnamese */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-regular - latin-ext_latin_vietnamese */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: rl('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-700 - latin-ext_latin_vietnamese */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('JosefinSans/josefin-sans-v13-latin-ext_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* julius-sans-one-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('JuliusSans/julius-sans-one-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('JuliusSans/julius-sans-one-v7-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* jura-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* jura-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* jura-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Jura/jura-v10-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* kelly-slab-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Kelly Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url('KellySlab/kelly-slab-v9-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('KellySlab/kelly-slab-v9-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* knewave-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Knewave';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Knewave/knewave-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Knewave/knewave-v7-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* limelight-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Limelight';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Limelight/limelight-v9-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Limelight/limelight-v9-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lobster-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Lobster/lobster-v21-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Lobster/lobster-v21-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}/* marck-script-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url('MarckScript/marck-script-v9-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('MarckScript/marck-script-v9-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* marmelad-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Marmelad';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Marmelad/marmelad-v8-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Marmelad/marmelad-v8-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* metal-mania-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Metal Mania';
+    font-style: normal;
+    font-weight: 400;
+    src: url('MetalMania/metal-mania-v8-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('MetalMania/metal-mania-v8-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-300 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-700 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Montserrat/montserrat-v13-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* old-standard-tt-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    src: url('OldStandardTT/old-standard-tt-v11-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('OldStandardTT/old-standard-tt-v11-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* old-standard-tt-700 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 700;
+    src: url('OldStandardTT/old-standard-tt-v11-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('OldStandardTT/old-standard-tt-v11-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* open-sans-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* open-sans-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* open-sans-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('OpenSans/open-sans-v16-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* oswald-300 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* oswald-regular - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* oswald-700 - latin-ext_cyrillic-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Oswald/oswald-v23-latin-ext_cyrillic-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* pirata-one-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('PirataOne/pirata-one-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PirataOne/pirata-one-v7-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-regular - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('PlayfairDisplay/playfair-display-v14-latin-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PlayfairDisplay/playfair-display-v14-latin-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-700 - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    src: url('PlayfairDisplay/playfair-display-v14-latin-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PlayfairDisplay/playfair-display-v14-latin-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poiret-one-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Poiret One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('PoiretOne/poiret-one-v7-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PoiretOne/poiret-one-v7-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* pt-serif-regular - latin-ext_cyrillic-ext_cyrillic_latin */
+@font-face {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url('PTSerif/pt-serif-v10-latin-ext_cyrillic-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PTSerif/pt-serif-v10-latin-ext_cyrillic-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* pt-serif-700 - latin-ext_cyrillic-ext_cyrillic_latin */
+@font-face {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    src: url('PTSerif/pt-serif-v10-latin-ext_cyrillic-ext_cyrillic_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('PTSerif/pt-serif-v10-latin-ext_cyrillic-ext_cyrillic_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* raleway-300 - latin-ext_latin */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Raleway/raleway-v13-latin-ext_latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Raleway/raleway-v13-latin-ext_latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* raleway-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Raleway/raleway-v13-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Raleway/raleway-v13-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* raleway-700 - latin-ext_latin */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Raleway/raleway-v13-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Raleway/raleway-v13-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Roboto/roboto-v19-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-condensed-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    src: url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-condensed-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    src: url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-condensed-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    src: url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoCondensed/roboto-condensed-v17-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-slab-300 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    src: url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-slab-regular - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-slab-700 - latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    src: url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RobotoSlab/roboto-slab-v8-latin-ext_cyrillic-ext_cyrillic_latin_greek_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rubik-mono-one-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('RubikMonoOne/rubik-mono-one-v7-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RubikMonoOne/rubik-mono-one-v7-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* ruge-boogie-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Ruge Boogie';
+    font-style: normal;
+    font-weight: 400;
+    src: url('RugeBoogie/ruge-boogie-v9-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RugeBoogie/ruge-boogie-v9-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* ruslan-display-regular - latin-ext_cyrillic_latin */
+@font-face {
+    font-family: 'Ruslan Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('RuslanDisplay/ruslan-display-v9-latin-ext_cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('RuslanDisplay/ruslan-display-v9-latin-ext_cyrillic_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sacramento-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Sacramento';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Sacramento/sacramento-v6-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Sacramento/sacramento-v6-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sancreek-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Sancreek';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Sancreek/sancreek-v9-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Sancreek/sancreek-v9-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* yanone-kaffeesatz-300 - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 300;
+    src: url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* yanone-kaffeesatz-regular - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* yanone-kaffeesatz-700 - latin-ext_cyrillic_latin_vietnamese */
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('Yanone/yanone-kaffeesatz-v10-latin-ext_cyrillic_latin_vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
